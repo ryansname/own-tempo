@@ -12,9 +12,10 @@ export AUTH_HEADER="Basic <you figure this out>"
 ```
 
 Useful keybinds unless out of date:
+
 `R` - Add "Review" to the remark
 
-`r` - Edit the remark, (use \<enter> to enter a literal new line)
+`r` - Edit the remark, (use `\<enter>` to enter a literal new line)
 
 `d` - Debug view
 
